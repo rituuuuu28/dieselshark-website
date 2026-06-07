@@ -146,12 +146,13 @@ color:#fff;
 
 .section-title span{
 display:block;
-max-width:1000px;
-margin:0 auto;
+max-width:900px;
+margin:20px auto 0;
 color:#A0A0A0;
-font-size:10px;
-font-weight:700;
+font-size:25px;
+font-weight:650;
 }
+
 
 .services{
 background:#080808;
