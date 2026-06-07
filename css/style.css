@@ -94,18 +94,19 @@ max-width:700px;
 }
 
 .hero h1{
-font-size:70px;
-max-width:800px;
-line-height:0.9;
+font-size:68px;
+max-width:750px;
+line-height:1;
 text-transform:uppercase;
 margin-bottom:25px;
+font-weight:700;
 }
 
 .hero p{
-font-size:26px;
-max-width:700px;
-color:#cfcfcf;
+font-size:20px;
+max-width:750px;
 line-height:1.5;
+color:#cfcfcf;
 }
 
 .hero h1 span{
